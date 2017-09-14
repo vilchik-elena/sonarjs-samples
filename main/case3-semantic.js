@@ -1,3 +1,5 @@
+
+
 function foo(condition) {
   let x;
 

@@ -1,3 +1,5 @@
+
+
 function hiAmsterdam(condition) {
   let x = 42;
   if (condition) {
