@@ -5,7 +5,7 @@ function foo(x) {
   if (x === 0) {
     x++;
 
-    if (x > a) {
+    if (x === a) {
       return 42;
     }
   }
